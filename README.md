@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myalifanno" alt="myalifanno" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Platform As a Service (mPaaS)**
+- 🌱 I’m currently working as **Mobile Platform As a Service (mPaaS)** developer
 
 - 📫 How to reach me **myalifanno@outlook.com**
 
